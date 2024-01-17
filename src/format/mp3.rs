@@ -1,0 +1,3 @@
+struct MP3Format {
+
+}
